@@ -1,1 +1,1 @@
-leanr Kafka
+learn Kafka
